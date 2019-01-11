@@ -1,0 +1,21 @@
+
+                              ul{
+                                     background-color: none;
+                                     color: white;
+				     
+
+                              }
+                              ul, li a{
+                                      color: white;
+                                      text-decoration: none;
+                                      font-size: 32px;
+
+                              }
+                              nav ul li { 
+                                     display: inline-block;
+                                     margin-right: 10px;
+			      }
+			      main ul, main img {
+				     display: inline-block;
+				     vertical-align: top;
+			      }
